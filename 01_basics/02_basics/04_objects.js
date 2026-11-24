@@ -50,4 +50,22 @@ console.log(Objects.keys(tinderUser));
 console.log(Object.values(tinderUser));
 console.log(Object.entries(tinderUser));
 
-console.log(tinderUser.hasOwnProperty('isLogged'));
+console.log(tinderUser.hasOwnProperty('isLogged'));// course.courseInstructor
+const {courseInstructor: instructor} = course
+
+//console.log(courseInstructor);
+console.log(instructor);
+
+//{
+ //   name: "hitesh",
+ //   coursename: "js in hindi",
+ //   price: "free"
+// }
+[
+
+{},
+{},
+{},
+]
+// these are json 
+talk about
