@@ -7,4 +7,5 @@ console.log(price*quantity);
 
 let total = price*quantity;
 
+
 console.log(total);
